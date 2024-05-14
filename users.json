@@ -1,0 +1,33 @@
+
+{"users":[
+    {
+        "id":"1",
+        "name":"venkat",
+        "branch":"DS"
+
+    },
+    {
+        "id":"2",
+        "name":"ram",
+        "branch":"EIE"
+
+    },
+    {
+        "id":"3",
+        "name":"raju",
+        "branch":"ECE"
+
+    },
+    {
+        "id":"4",
+        "name":"laxman",
+        "branch":"CIVIL"
+
+    },
+    {
+        "id":"5",
+        "name":"raj",
+        "branch":"MECH"
+
+    }
+]}
