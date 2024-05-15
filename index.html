@@ -3,10 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="indes.css">
+    <title>SMS</title>
 </head>
 <body>
-    <script  src="crude.js"></script>
-    <button   onclick="getData()">fetch</button>
+    <h1>Student databasemangement </h1>
+    <form>
+        <input type="text" placeholder="name" id="name" required >
+        <input type="text" placeholder="course" id="course" required>
+        <input type="text" placeholder="rollno" id="rollno" required>
+      <button>Add</button>
+    </form>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Course</th>
+                <th>RollNo</th>
+            </tr>
+        </thead>
+        <tbody id="tbody"></tbody>
+    </table>
+    <script src="index.js"></script>
 </body>
 </html>
