@@ -1,10 +1,7 @@
 {
-    "students": [
-      {
-        "name": "",
-        "course": "",
-        "id":""
-      }
-    ]
-  }
-  
+    "users":{
+        "id":"1",
+        "name":"venkat",
+        "branch":"cse"
+    }
+}
